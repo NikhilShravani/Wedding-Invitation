@@ -458,10 +458,10 @@ body {
 	flex-direction: column;
 }
 
-.title {
+/* .title {
 	margin-bottom: 20px;
 }
-
+ */
 #time {
 	width: auto;
 	height: auto;
